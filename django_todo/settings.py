@@ -26,7 +26,7 @@ SECRET_KEY = 'ae_au@htol@=8mahjbstvqw#5(*+nw%ky1ckm@8ey_&(-@@l1)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['elli-todo-app.herokuapp.com']
 
 
 # Application definition
